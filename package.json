@@ -1,0 +1,15 @@
+{
+  "name": "js-space-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": " npm space game"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
